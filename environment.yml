@@ -1,0 +1,4 @@
+name: Vendee_Globe_env
+channels:
+  - defaults
+prefix: /Users/simondelarue/opt/anaconda3/envs/Vendee_Globe_env
