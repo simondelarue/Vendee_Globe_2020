@@ -1,4 +1,7 @@
-![Vendée Globe logo](/img/logo_vendee_globe_2020.png "VendeeGlobe")
+<p align="center">
+  <img src="/img/logo_vendee_globe_2020.png" />
+</p>
+
 
 # <p align="center"> Vendée Globe 2020-2021 </p>
 
